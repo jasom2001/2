@@ -3,7 +3,7 @@
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "/",
   "PRUNING": true,
-  "LOCALE": "ch_tw",
+  "LOCALE": "zh_tw",
   "STAY_TIME": 30,
   "DEFAULT_VOLUME": 100
 }
