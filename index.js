@@ -24,9 +24,9 @@ client.queue = new Map();
 /**
  * Client events
  */
-client.on("ready", () => {
+client.on("已啟動", () => {
   console.log(`${client.user.username} ready!`);
-  client.user.setActivity(`${PREFIX}help and ${PREFIX}play`, { type: "LISTENING" });
+  client.user.setActivity(`${PREFIX}help`, { type: "LISTENING" });
 });
 client.on("warn", (info) => console.log(info));
 client.on("error", console.error);
