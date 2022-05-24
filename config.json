@@ -1,7 +1,7 @@
 {
   "TOKEN": "OTc4MTA4ODA1Njg0NTUxNjgx.GJjz-4.0881NFCCB6U9v1PHnVI9Xh6YEbSmzpl0aOk2xI",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "js/",
   "PRUNING": true,
   "LOCALE": "zh_tw",
   "STAY_TIME": 30,
