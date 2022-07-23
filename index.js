@@ -1,7 +1,7 @@
-import { Client, Collection, Intents } from "discord.js";
-import { config } from "./utils/config.js";
-import { importCommands } from "./utils/importCommands.js";
-import { messageCreate } from "./utils/messageCreate.js";
+const { Client, Collection, Intents } from "discord.js";
+const { config } from "./utils/config.js";
+const { importCommands } from "./utils/importCommands.js";
+const { messageCreate } from "./utils/messageCreate.js";
 
 const { TOKEN, PREFIX } = config;
 
